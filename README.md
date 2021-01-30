@@ -1,7 +1,7 @@
 # UtahForge_logdata
  
 Well 58-32
-Visualization of a set of petrophysical logs, and cuttings sample laboratory results (XRD and Thermo Conductivity)
+Visualization of a set of petrophysical logs, and cuttings sample laboratory results (XRD and Thermal Conductivity)
 Data downloaded from https://gdr.openei.org/submissions/1111
 
 Other references:
