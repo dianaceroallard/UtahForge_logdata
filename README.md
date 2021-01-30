@@ -1,4 +1,4 @@
-# UtahForge_logdata
+# Utah Forge core and log data visualization. Preliminar thermofacies definition. 
  
 Well 58-32
 Visualization of a set of petrophysical logs, and cuttings sample laboratory results (XRD and Thermal Conductivity)
