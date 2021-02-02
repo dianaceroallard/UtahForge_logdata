@@ -1,7 +1,7 @@
-# Utah Forge core and log data visualization. Preliminar thermofacies definition. 
+# Utah Forge core and log data visualization. Simple Thermal Conductivity regression. Preliminar thermofacies definition. 
  
 Well 58-32
-Visualization of a set of petrophysical logs, and cuttings sample laboratory results (XRD and Thermal Conductivity)
+Set of petrophysical logs, and cuttings sample laboratory results (XRD and Thermal Conductivity)
 Data downloaded from https://gdr.openei.org/submissions/1111
 
 Other references:
